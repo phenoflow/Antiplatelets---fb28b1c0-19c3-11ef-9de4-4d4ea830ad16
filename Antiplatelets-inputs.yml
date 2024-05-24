@@ -1,0 +1,48 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/antiplatelets-ashbourne---primary.py
+inputModule3:
+  class: File
+  path: python/aspirin-antiplatelets---primary.py
+inputModule4:
+  class: File
+  path: python/dispersible-antiplatelets---primary.py
+inputModule5:
+  class: File
+  path: python/enteric-antiplatelets---primary.py
+inputModule6:
+  class: File
+  path: python/antiplatelets-pharm---primary.py
+inputModule7:
+  class: File
+  path: python/antiplatelets-wockhardt---primary.py
+inputModule8:
+  class: File
+  path: python/antiplatelets-hillcross---primary.py
+inputModule9:
+  class: File
+  path: python/antiplatelets-micropirin---primary.py
+inputModule10:
+  class: File
+  path: python/antiplatelets-tablet---primary.py
+inputModule11:
+  class: File
+  path: python/nuseal-antiplatelets---primary.py
+inputModule12:
+  class: File
+  path: python/antiplatelets-coated---primary.py
+inputModule13:
+  class: File
+  path: python/antiplatelets-actavis---primary.py
+inputModule14:
+  class: File
+  path: python/antiplatelets-soluble---primary.py
+inputModule15:
+  class: File
+  path: python/antiplatelets-clopidogrel---primary.py
+inputModule16:
+  class: File
+  path: python/output-cases.py
